@@ -131,7 +131,7 @@ public class AccountQueryController {
 
 ```bash
 # Cloner le projet
-git clone https://github.com/votre-repo/bank-cqrs-es.git
+git clone https://github.com/YounesJabbour/CQRS_Event_Sourcing_bank_app
 
 # Installer les dépendances
 mvn clean install
